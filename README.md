@@ -5,19 +5,19 @@
 Sou um entusiasta e programador backend com 2 anos de experiência, especializado no desenvolvimento de aplicações Back-end. Meu objetivo é elevar a qualidade de projetos existentes e contribuir ativamente em todas as fases do desenvolvimento, desde a concepção até o deploy.
 
 ## Tecnologias 🖥
-- **Linguagens de Programação:**💻
+- **Linguagens de Programação:** 💻
   - Java (Spring Boot)
   - C# (.NET)
   - Node.js
   - React Native
 
-- **Bancos de Dados:**💾
+- **Bancos de Dados:** 💾
   - Oracle
   - Azure SQL
   - PostgreSQL
   - MongoDB
 
-- **Ferramentas e Plataformas:**🧷
+- **Ferramentas e Plataformas:** 🧷
   - Docker
   - REST APIs
 

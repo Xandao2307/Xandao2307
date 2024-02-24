@@ -2,7 +2,7 @@
 # Alexandre Souza Nunes - Backend Developer
 
 ## Sobre Mim 💬
-Sou um entusiasta e programador backend com 2 anos de experiência, especializado no desenvolvimento de aplicações Back-end. Meu objetivo é elevar a qualidade de projetos existentes e contribuir ativamente em todas as fases do desenvolvimento, desde a concepção até o deploy.
+Sou um entusiasta e programador backend com 4 anos de experiência, especializado no desenvolvimento de aplicações Back-end. Meu objetivo é elevar a qualidade de projetos existentes e contribuir ativamente em todas as fases do desenvolvimento, desde a concepção até o deploy.
 
 ## Tecnologias 🖥
 - **Linguagens de Programação:** 💻

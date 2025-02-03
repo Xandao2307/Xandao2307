@@ -6,8 +6,9 @@ Sou um entusiasta e programador backend com 4 anos de experiência, especializad
 
 ## Tecnologias 🖥
 - **Linguagens de Programação:** 💻
-  - Java (Spring Boot)
+  - Python (Django)
   - C# (.NET)
+  - Java (Spring Boot)
   - Node.js
   - React Native
 
